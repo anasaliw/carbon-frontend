@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.css-mr2qu-MuiInputBase-root-MuiOutlinedInput-root {
+  height: 30px;
+  font-size: 10px;
+  width: 55px;
+  /* width: 75px; */
+  border: none;
+  outline: none;
+}
+.css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root:hover {
+  background-color: transparent !important;
+}
+.css-19qh8xo-MuiInputBase-input-MuiOutlinedInput-input {
+  font-size: 10px !important;
+  display: none !important;
+  padding: 0px !important;
+}
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+  display: none;
+  padding: 0px 0px;
+}
+.css-1cb3xgx-MuiPaper-root-MuiAccordion-root:before {
+  display: none;
+}
+.css-1cb3xgx-MuiPaper-root-MuiAccordion-root.Mui-expanded {
+  margin: 0px;
+}
+.apexcharts-legend.apx-legend-position-right,
+.apexcharts-legend.apx-legend-position-left {
+  /* flex-direction: row; */
+}
+.apexcharts-legend.apx-legend-position-right {
+  /* position: relative; */
+  display: none;
+  /* right: 200px; */
+  /* display: flex; */
+  /* flex-direction: row; */
+  /* justify-content: flex-end; */
+  /* align-items: flex-end; */
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
